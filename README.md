@@ -15,3 +15,5 @@ npm install
 ###  To start the script, run the following
 
 ``` npm run build ```
+
+And open `index.html` file in your browser.
